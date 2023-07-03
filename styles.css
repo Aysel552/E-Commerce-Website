@@ -57,3 +57,32 @@ header{
     transform: scale(1.1);
     color: #ee1c47;
 }
+
+
+#menu-icon{
+    font-size: 35px;
+    color:#2c2c2c;
+    z-index: 10001;
+    cursor: pointer;
+}
+
+/* Adding section features */
+
+section{
+    padding: 5% 10%;
+}
+
+/* Adding main-home section features */
+
+.main-home{
+    width: 100%;
+    height: 100vh;
+    background-image: url(./image/banner-3.png);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    display: grid;
+    grid-template-columns: repeat(1,1fr);
+    align-items: center;
+}
+
