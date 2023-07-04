@@ -159,3 +159,15 @@ header.sticky{
 
 /* adding the design of trending section  */
 
+.center-text h2{
+    color: #111;
+    font-size: 28px;
+    text-transform: capitalize;
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+.center-text span{
+    color:#ee1c47;
+}
+
