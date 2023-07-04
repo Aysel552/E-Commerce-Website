@@ -199,6 +199,17 @@ header.sticky{
     border-radius: 2px
 }
 
+.heart-icon{
+    position: absolute;
+    right: 0;
+    font-size: 20px;
+}
+
+.heart-icon:hover{
+    color:#ee1c47
+}
+
+
 
 
 
