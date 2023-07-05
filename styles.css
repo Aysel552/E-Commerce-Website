@@ -206,7 +206,19 @@ header.sticky{
 }
 
 .heart-icon:hover{
-    color:#ee1c47
+    color:#ee1c47;
+}
+
+.rating i{
+    color: #ff8c00;
+    font-size: 18px;
+}
+
+.price h4{
+    color: #111;
+    font-size: 16px;
+    text-transform: capitalize;
+    font-weight: 400;
 }
 
 
