@@ -346,6 +346,30 @@ header.sticky{
     color: #ee1c47
 }
 
+/* Design of social icons */
+
+.social-icon i{
+    color:#565656;
+    margin-right: 10px;
+    font-size: 20px;
+    transition: all .42s;
+}
+
+.social-icon i:hover{
+    transform: scale(1.3);
+}
+
+.end-text{
+    background-color:#edfff1;
+    text-align: center;
+    padding: 20px;
+}
+
+.end-text p{
+    color: #111;
+    text-transform: capitalize;
+}
+
 
 
 
