@@ -372,6 +372,12 @@ header.sticky{
 
 /* Responsive css */
 
+@media(max-width:890px){
+    header{
+        padding: 20px 3%;
+    }
+}
+
 
 
 
