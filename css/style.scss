@@ -1,2 +1,13 @@
 $fonts: 'Jost', sans-serif;
 $background-size: cover;
+$background-position: center;
+$list-style: none;
+$text-decoration: none;
+$scroll-behaviour: smooth;
+$box-sizing: border-box;
+
+*{
+    margin: 0;
+    padding: 0;
+    font-family: $fonts;
+}
